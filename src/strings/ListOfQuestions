@@ -1,0 +1,27 @@
+1) Reverse a String – Leetcode 344 - Done
+2) Valid Palindrome – Leetcode 125 - Done
+3) Implement strStr() (Substring Search) – Leetcode 28
+4) Longest Common Prefix – Leetcode 14 - Done
+5) Check for Anagram – Leetcode 242 - Done
+6) Count and Say – Leetcode 38
+7) To Lower Case – Leetcode 709
+8) Remove All Adjacent Duplicates in String – Leetcode 1047
+
+Medium Level (Sliding window, hashing, etc.)
+
+9) Longest Substring Without Repeating Characters – Leetcode 3 - Done
+10) Group Anagrams – Leetcode 49 - Done
+11) Longest Palindromic Substring – Leetcode 5
+12) Zigzag Conversion – Leetcode 6
+13) Multiply Strings – Leetcode 43
+14) Permutation in String – Leetcode 567
+15) Minimum Window Substring – Leetcode 76 - Done
+16) Integer to Roman / Roman to Integer – Leetcode 12 / 13 - Done
+
+Hard Level (Advanced patterns – DP, KMP, tries, etc.)
+
+17) Wildcard Matching – Leetcode 44
+18) Regular Expression Matching – Leetcode 10
+19) Palindrome Pairs – Leetcode 336
+20) Shortest Palindrome – Leetcode 214
+
